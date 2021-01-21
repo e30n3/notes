@@ -12162,11 +12162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PREDATOR\\source\\repos\\Note\\Note\\Note.csproj",
+      "projectUniqueName": "D:\\Git\\notes\\Note\\Note.csproj",
       "projectName": "Note",
-      "projectPath": "C:\\Users\\PREDATOR\\source\\repos\\Note\\Note\\Note.csproj",
+      "projectPath": "D:\\Git\\notes\\Note\\Note.csproj",
       "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PREDATOR\\source\\repos\\Note\\Note\\obj\\",
+      "outputPath": "D:\\Git\\notes\\Note\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PREDATOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
