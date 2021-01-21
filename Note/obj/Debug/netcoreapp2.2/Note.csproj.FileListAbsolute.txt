@@ -1,0 +1,17 @@
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\Note.deps.json
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\Note.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\Note.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\Note.dll
+C:\Users\PREDATOR\source\repos\Note\Note\bin\Debug\netcoreapp2.2\Note.pdb
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.RazorAssemblyInfo.cache
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.RazorAssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.RazorTargetAssemblyInfo.cache
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.dll
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.pdb
+C:\Users\PREDATOR\source\repos\Note\Note\obj\Debug\netcoreapp2.2\Note.genruntimeconfig.cache
